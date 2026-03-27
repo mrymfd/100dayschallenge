@@ -1,0 +1,5 @@
+mne        # For EEG data processing, plotting PSDs, reading/saving EDF files
+numpy      # Numerical computations
+pandas     # Data manipulation, reading/writing TSV files
+matplotlib # Plotting EEG signals and PSDs
+
