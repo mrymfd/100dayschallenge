@@ -1,10 +1,8 @@
-**🚀 Contributing to 100 Days Challenge
-**
+_Contributing to 100 Days Challenge_
 Thank you for your interest in contributing! This guide explains how to contribute to the project and make your contributions clear and helpful.
 
 
-📌** How to Contribute / Workflow
-**
+_Low to Contribute / Workflow_
 🍴 Fork the Repository
 
 Click the “Fork” button on GitHub to create your own copy.
@@ -56,9 +54,8 @@ Link related issues (if any)
 
 Add labels if appropriate (enhancement, bug, documentation)
 
-**
-🎨 Coding Style / Standards
-**
+_Coding Style / Standards_
+
 Use clear and descriptive variable names
 
 Follow consistent indentation (4 spaces)
