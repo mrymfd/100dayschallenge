@@ -1,4 +1,1 @@
-# 100 Days Challenge
-my coding journey 
-the challenge 💪
-🧪 Testing alternative analysis inspired by TRAIN workshop course
+I created this branch to explore an alternative analysis inspired by the TRAIN workshop course. I want to test applying the methods taught in the course to my own dataset, experiment with visualizations, and try new approaches without affecting the main branch.
