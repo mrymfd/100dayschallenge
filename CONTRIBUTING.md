@@ -1,8 +1,10 @@
 _Contributing to 100 Days Challenge_
+
 Thank you for your interest in contributing! This guide explains how to contribute to the project and make your contributions clear and helpful.
 
 
 _Low to Contribute / Workflow_
+
 🍴 Fork the Repository
 
 Click the “Fork” button on GitHub to create your own copy.
