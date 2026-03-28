@@ -23,15 +23,18 @@ I completed at least two tiers of challenges for the 100 Days Challenge and here
 - **Another example commit**  
   [Link to commit](https://github.com/mrymfd/100dayschallenge/commit/aa948fb)
 
-- **Reviewed/Commented on a pull request**  
-  It was a closed pull request, so I added a comment anyway :)  
-  [Link to comment](https://github.com/vcarriqu/Workshop_Neuro802/pull/1#discussion_comment-<insert-comment-id>)
+
 
 ---
 
 ### Tier 3
 - **Connected issue #1 to the alternative-analysis branch**  
   [Link to issue #1](https://github.com/mrymfd/100dayschallenge/issues/1)
+
+
+- **Reviewed/Commented on a pull request**
+  It was a closed pull request, so I added a comment anyway :)
+  [Link to comment](https://github.com/vcarriqu/Workshop_Neuro802/pull/>
 
 ---
 
